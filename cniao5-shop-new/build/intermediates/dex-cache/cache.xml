@@ -1,0 +1,250 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\mao\Desktop\cniao5-shop-master\cniao5-shop2111\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="c31e21b53ff2f74664e498248d01453a32e32d48">
+        <dex dex="C:\Users\mao\Desktop\cniao5-shop-master\cniao5-shop2111\app\build\intermediates\pre-dexed\debug\classes-bef6df7ab9ef87cc4f38316c3579fb46dbc4cc87.jar" />
+    </item>
+    <item
+        jar="C:\Users\mao\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp\okhttp\2.5.0\4de2b4ed3445c37ec1720a7d214712e845a24636\okhttp-2.5.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="4de2b4ed3445c37ec1720a7d214712e845a24636">
+        <dex dex="C:\Users\mao\Desktop\cniao5-shop-master\cniao5-shop2111\app\build\intermediates\pre-dexed\debug\okhttp-2.5.0-6f8856946eaa41ab8f9ec24550a356792aaa07f2.jar" />
+    </item>
+    <item
+        jar="C:\Users\mao\Desktop\cniao5-shop-master\cniao5-shop2111\app\build\intermediates\exploded-aar\cniao5-shop2111\sharesdk\unspecified\jars\libs\ShareSDK-Wechat-Favorite-2.6.4.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="bd820f646c7b0315feb16ec95ae4686fa50ac74f">
+        <dex dex="C:\Users\mao\Desktop\cniao5-shop-master\cniao5-shop2111\app\build\intermediates\pre-dexed\debug\ShareSDK-Wechat-Favorite-2.6.4-ae89fc8aa08eb6fe2e101894d24453f877253923.jar" />
+    </item>
+    <item
+        jar="C:\Users\mao\Desktop\cniao5-shop-master\cniao5-shop2111\app\build\intermediates\exploded-aar\cniao5-shop2111\sharesdk\unspecified\jars\libs\ShareSDK-Wechat-Core-2.6.4.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="a6e8417962070d895b3567c68f104f628462bc35">
+        <dex dex="C:\Users\mao\Desktop\cniao5-shop-master\cniao5-shop2111\app\build\intermediates\pre-dexed\debug\ShareSDK-Wechat-Core-2.6.4-952a7abdf13c899eab1d637c3c4399357de28af0.jar" />
+    </item>
+    <item
+        jar="C:\Users\mao\Desktop\cniao5-shop-master\cniao5-shop2111\app\build\intermediates\exploded-aar\cniao5-shop2111\sharesdk\unspecified\jars\libs\MobTools.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="4aae467e0a293d5d5cd0643e51b7b854bcc397c8">
+        <dex dex="C:\Users\mao\Desktop\cniao5-shop-master\cniao5-shop2111\app\build\intermediates\pre-dexed\debug\MobTools-a0821e797b00a0a17bb3de11fd478a825fb42e2b.jar" />
+    </item>
+    <item
+        jar="C:\Users\mao\Desktop\cniao5-shop-master\cniao5-shop2111\app\build\intermediates\exploded-aar\cniao5-shop2111\sharesdk\unspecified\jars\libs\ShareSDK-Core-2.6.4.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="7bb32fc69b3520f10333fcc5cdd78a4495761a64">
+        <dex dex="C:\Users\mao\Desktop\cniao5-shop-master\cniao5-shop2111\app\build\intermediates\pre-dexed\debug\ShareSDK-Core-2.6.4-c0d5e7e9d09125af725f48971aa4cafc8fef6670.jar" />
+    </item>
+    <item
+        jar="C:\Users\mao\Desktop\cniao5-shop-master\cniao5-shop2111\app\build\intermediates\exploded-aar\com.jiechic.library\xUtils\2.6.14\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="fe75606aa9485cd20177894c204291a79a0cc7ab">
+        <dex dex="C:\Users\mao\Desktop\cniao5-shop-master\cniao5-shop2111\app\build\intermediates\pre-dexed\debug\classes-f4cc86e2cc54c9f0651befeeeec2cd9633452a4b.jar" />
+    </item>
+    <item
+        jar="C:\Users\mao\Desktop\cniao5-shop-master\cniao5-shop2111\app\build\intermediates\exploded-aar\cniao5-shop2111\sharesdk\unspecified\jars\libs\ShareSDK-Wechat-2.6.4.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="100546a136041bcbeb9b90790b6361c932545676">
+        <dex dex="C:\Users\mao\Desktop\cniao5-shop-master\cniao5-shop2111\app\build\intermediates\pre-dexed\debug\ShareSDK-Wechat-2.6.4-2c2665eb6fca8a0d308f26a0ae1a47945048a829.jar" />
+    </item>
+    <item
+        jar="C:\Users\mao\Desktop\cniao5-shop-master\cniao5-shop2111\app\build\intermediates\exploded-aar\de.hdodenhof\circleimageview\2.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="031e8b3ab2df4ab43b1017f84417d7e10dfbb8d2">
+        <dex dex="C:\Users\mao\Desktop\cniao5-shop-master\cniao5-shop2111\app\build\intermediates\pre-dexed\debug\classes-12440bb5713e4a8abee16a2a34f241d79e1e1590.jar" />
+    </item>
+    <item
+        jar="C:\Users\mao\Desktop\cniao5-shop-master\cniao5-shop2111\app\build\intermediates\exploded-aar\cniao5-shop2111\sharesdk\unspecified\jars\libs\ShareSDK-QZone-2.6.4.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="606a553246f241278b45e19d5029c915ae49c316">
+        <dex dex="C:\Users\mao\Desktop\cniao5-shop-master\cniao5-shop2111\app\build\intermediates\pre-dexed\debug\ShareSDK-QZone-2.6.4-53c3bfb9570366519a50ec606cf6275a38359f19.jar" />
+    </item>
+    <item
+        jar="C:\Users\mao\Desktop\cniao5-shop-master\cniao5-shop2111\app\build\intermediates\exploded-aar\com.facebook.fresco\fresco\0.6.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="27ebd5d2c69a1830b4ff47a1d5d4c6a4aab5e233">
+        <dex dex="C:\Users\mao\Desktop\cniao5-shop-master\cniao5-shop2111\app\build\intermediates\pre-dexed\debug\classes-c9ccaf4e2c47d6d401b076be4dd0cf91145a33b9.jar" />
+    </item>
+    <item
+        jar="C:\Users\mao\Desktop\cniao5-shop-master\cniao5-shop2111\app\build\intermediates\exploded-aar\cniao5-shop2111\sharesdk\unspecified\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="d7195cb6acc41cc88432510f9e3679478367d358">
+        <dex dex="C:\Users\mao\Desktop\cniao5-shop-master\cniao5-shop2111\app\build\intermediates\pre-dexed\debug\classes-e8ffba7c077898ab5f8cfd4ada9fcf6d7fbe293f.jar" />
+    </item>
+    <item
+        jar="C:\Users\mao\Desktop\cniao5-shop-master\cniao5-shop2111\app\build\intermediates\exploded-aar\com.facebook.fresco\fbcore\0.6.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="87bffaacf21eb2c6fc61cf01930ff96ae175e798">
+        <dex dex="C:\Users\mao\Desktop\cniao5-shop-master\cniao5-shop2111\app\build\intermediates\pre-dexed\debug\classes-c2c8ec20ad0229e80a3eba63054a55d5cd7aed21.jar" />
+    </item>
+    <item
+        jar="C:\Users\mao\Desktop\cniao5-shop-master\cniao5-shop2111\app\build\intermediates\exploded-aar\cniao5-shop2111\sharesdk\unspecified\jars\libs\ShareSDK-QQ-2.6.4.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="e8d59be1960d4e1b1f9119cc77966e5f7c9fb7bd">
+        <dex dex="C:\Users\mao\Desktop\cniao5-shop-master\cniao5-shop2111\app\build\intermediates\pre-dexed\debug\ShareSDK-QQ-2.6.4-e0b54070771ef0d45e72cddb2840096de43cfed2.jar" />
+    </item>
+    <item
+        jar="C:\Users\mao\Desktop\cniao5-shop-master\cniao5-shop2111\app\build\intermediates\exploded-aar\cniao5-shop2111\sharesdk\unspecified\jars\libs\ShareSDK-SinaWeibo-2.6.4.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="4536d9f7a5fb826609d5a17b30cabb21ead18d1c">
+        <dex dex="C:\Users\mao\Desktop\cniao5-shop-master\cniao5-shop2111\app\build\intermediates\pre-dexed\debug\ShareSDK-SinaWeibo-2.6.4-d1a9eda2b896f95f6009e2cc977b66438ee8f0ea.jar" />
+    </item>
+    <item
+        jar="C:\Users\mao\.gradle\caches\modules-2\files-2.1\com.google.code.gson\gson\2.3.1\ecb6e1f8e4b0e84c4b886c2f14a1500caf309757\gson-2.3.1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="ecb6e1f8e4b0e84c4b886c2f14a1500caf309757">
+        <dex dex="C:\Users\mao\Desktop\cniao5-shop-master\cniao5-shop2111\app\build\intermediates\pre-dexed\debug\gson-2.3.1-17568bd0a5f46e5a68d3c46fd01a6ffcc7b46248.jar" />
+    </item>
+    <item
+        jar="C:\Users\mao\Desktop\cniao5-shop-master\cniao5-shop2111\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\23.0.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="4356e230a981d1bbf047d848b91bc0d9b7c5bacc">
+        <dex dex="C:\Users\mao\Desktop\cniao5-shop-master\cniao5-shop2111\app\build\intermediates\pre-dexed\debug\classes-83defaebdfe1bc434a39458c01c33bfff2b81408.jar" />
+    </item>
+    <item
+        jar="C:\Users\mao\Desktop\cniao5-shop-master\cniao5-shop2111\app\build\intermediates\exploded-aar\com.daimajia.slider\library\1.1.5\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="08962e03b6a954c65d4944e092879b7f5ee1208d">
+        <dex dex="C:\Users\mao\Desktop\cniao5-shop-master\cniao5-shop2111\app\build\intermediates\pre-dexed\debug\classes-f294e778c533bb1370d93332a41b6051d247b3a8.jar" />
+    </item>
+    <item
+        jar="C:\Users\mao\Desktop\cniao5-shop-master\cniao5-shop2111\app\build\intermediates\exploded-aar\com.facebook.fresco\imagepipeline\0.6.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="b5eb6c5f132d34f7ece3fbae25feb43e4ea9d6aa">
+        <dex dex="C:\Users\mao\Desktop\cniao5-shop-master\cniao5-shop2111\app\build\intermediates\pre-dexed\debug\classes-c9a3a8f3799e860e22fe744da91caa532cdbf770.jar" />
+    </item>
+    <item
+        jar="C:\Users\mao\Desktop\cniao5-shop-master\cniao5-shop2111\app\build\intermediates\exploded-aar\com.facebook.fresco\imagepipeline-okhttp\0.6.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="543b4bf48e20cc32db51dbd9138ac181586ebe85">
+        <dex dex="C:\Users\mao\Desktop\cniao5-shop-master\cniao5-shop2111\app\build\intermediates\pre-dexed\debug\classes-fb0751751e75a39a6e49acf2cd85a3741330c22e.jar" />
+    </item>
+    <item
+        jar="C:\Users\mao\Desktop\cniao5-shop-master\cniao5-shop2111\app\build\intermediates\exploded-aar\com.cjj.materialrefeshlayout\library\1.3.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="597d857fe9b090c4582f0855a2c6d6cc45fec544">
+        <dex dex="C:\Users\mao\Desktop\cniao5-shop-master\cniao5-shop2111\app\build\intermediates\pre-dexed\debug\classes-98d06726d1486232ef31534006a4b8371f742b55.jar" />
+    </item>
+    <item
+        jar="C:\Users\mao\Desktop\cniao5-shop-master\cniao5-shop2111\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.0.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="d86429b0f0b3f3cafbeb78dda1b9d89119ccb05d">
+        <dex dex="C:\Users\mao\Desktop\cniao5-shop-master\cniao5-shop2111\app\build\intermediates\pre-dexed\debug\classes-d453516e3cc5e2b46e4578af651ddbe755effd3a.jar" />
+    </item>
+    <item
+        jar="C:\Users\mao\.gradle\caches\modules-2\files-2.1\com.squareup.picasso\picasso\2.5.2\7446d06ec8d4f7ffcc53f1da37c95f200dcb9387\picasso-2.5.2.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="7446d06ec8d4f7ffcc53f1da37c95f200dcb9387">
+        <dex dex="C:\Users\mao\Desktop\cniao5-shop-master\cniao5-shop2111\app\build\intermediates\pre-dexed\debug\picasso-2.5.2-939c12649dd5c613477491333ffaeba3191f3cf6.jar" />
+    </item>
+    <item
+        jar="C:\Users\mao\.gradle\caches\modules-2\files-2.1\com.squareup.okio\okio\1.6.0\98476622f10715998eacf9240d6b479f12c66143\okio-1.6.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="98476622f10715998eacf9240d6b479f12c66143">
+        <dex dex="C:\Users\mao\Desktop\cniao5-shop-master\cniao5-shop2111\app\build\intermediates\pre-dexed\debug\okio-1.6.0-cbc6eee6b6410a6d992170bb10e16cb10a33854c.jar" />
+    </item>
+    <item
+        jar="C:\Users\mao\Desktop\cniao5-shop-master\cniao5-shop2111\app\build\intermediates\exploded-aar\cniao5-shop2111\sharesdk\unspecified\jars\libs\ShareSDK-Wechat-Moments-2.6.4.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="dc2b46a70ccf00592d33c3afde812993d9db4ac9">
+        <dex dex="C:\Users\mao\Desktop\cniao5-shop-master\cniao5-shop2111\app\build\intermediates\pre-dexed\debug\ShareSDK-Wechat-Moments-2.6.4-2f675edacbccf56936fd7231257d18f281ddb2b1.jar" />
+    </item>
+    <item
+        jar="C:\Users\mao\.gradle\caches\modules-2\files-2.1\com.parse.bolts\bolts-android\1.1.4\129874135e6081269ace2312092031558865de12\bolts-android-1.1.4.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="129874135e6081269ace2312092031558865de12">
+        <dex dex="C:\Users\mao\Desktop\cniao5-shop-master\cniao5-shop2111\app\build\intermediates\pre-dexed\debug\bolts-android-1.1.4-36e34f0ff4dbc41545d978cfcecc7836ccb4c13f.jar" />
+    </item>
+    <item
+        jar="C:\Users\mao\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\23.0.1\support-annotations-23.0.1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="1fce89a6428c51467090d7f424e4c9c3dbd55f7e">
+        <dex dex="C:\Users\mao\Desktop\cniao5-shop-master\cniao5-shop2111\app\build\intermediates\pre-dexed\debug\support-annotations-23.0.1-ac3c18f7272219a7f3469b8cf0325804629ec549.jar" />
+    </item>
+    <item
+        jar="C:\Users\mao\Desktop\cniao5-shop-master\cniao5-shop2111\app\build\intermediates\exploded-aar\com.android.support\design\23.0.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="e5c61a3169221a89654ffcaaed47bba51cf071ad">
+        <dex dex="C:\Users\mao\Desktop\cniao5-shop-master\cniao5-shop2111\app\build\intermediates\pre-dexed\debug\classes-855b7b910954078ba4685afccf855798edeac4c9.jar" />
+    </item>
+    <item
+        jar="C:\Users\mao\Desktop\cniao5-shop-master\cniao5-shop2111\app\build\intermediates\exploded-aar\cniao5-shop2111\sharesdk\unspecified\jars\libs\MobCommons.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="86052ea3c2fcfa2f2d25d71ae34ab20b8c2dca9a">
+        <dex dex="C:\Users\mao\Desktop\cniao5-shop-master\cniao5-shop2111\app\build\intermediates\pre-dexed\debug\MobCommons-1ed858c9591584649af0c5ed3e0c2ee3b42391b7.jar" />
+    </item>
+    <item
+        jar="C:\Users\mao\Desktop\cniao5-shop-master\cniao5-shop2111\app\build\intermediates\exploded-aar\com.github.d-max\spots-dialog\0.4\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="f82b3f786bf4937ed1a1cc9a9a811e154813ba9a">
+        <dex dex="C:\Users\mao\Desktop\cniao5-shop-master\cniao5-shop2111\app\build\intermediates\pre-dexed\debug\classes-261224a4b75b1051b29cb2ea29e29d4de81ff17e.jar" />
+    </item>
+    <item
+        jar="C:\Users\mao\.gradle\caches\modules-2\files-2.1\com.nineoldandroids\library\2.4.0\e9b63380f3a242dbdbf103a2355ad7e43bad17cb\library-2.4.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="e9b63380f3a242dbdbf103a2355ad7e43bad17cb">
+        <dex dex="C:\Users\mao\Desktop\cniao5-shop-master\cniao5-shop2111\app\build\intermediates\pre-dexed\debug\library-2.4.0-edc94e29b95ebe1312a8a753f6aa10f8f4982b76.jar" />
+    </item>
+    <item
+        jar="C:\Users\mao\Desktop\cniao5-shop-master\cniao5-shop2111\app\build\intermediates\exploded-aar\com.facebook.fresco\drawee\0.6.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="d572f92ecb6ae3b66e807550b07e4a6cca1f737f">
+        <dex dex="C:\Users\mao\Desktop\cniao5-shop-master\cniao5-shop2111\app\build\intermediates\pre-dexed\debug\classes-3c5041d306c71a3abf564447a256933e35a739c2.jar" />
+    </item>
+    <item
+        jar="C:\Users\mao\Desktop\cniao5-shop-master\cniao5-shop2111\app\build\intermediates\exploded-aar\com.android.support\cardview-v7\23.0.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="39ae02ce40c3ac828abbf780ce0ff5d7a28b7d6a">
+        <dex dex="C:\Users\mao\Desktop\cniao5-shop-master\cniao5-shop2111\app\build\intermediates\pre-dexed\debug\classes-e4b6bdf9a3321576a66d1c582667c12ddf03c170.jar" />
+    </item>
+    <item
+        jar="C:\Users\mao\Desktop\cniao5-shop-master\cniao5-shop2111\app\build\intermediates\exploded-aar\cniao5-shop2111\sharesdk\unspecified\jars\libs\ShareSDK-TencentWeibo-2.6.4.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="83cf7f24b0717fbe9272342f0b971ed4af13d106">
+        <dex dex="C:\Users\mao\Desktop\cniao5-shop-master\cniao5-shop2111\app\build\intermediates\pre-dexed\debug\ShareSDK-TencentWeibo-2.6.4-9c3b70c29c00938e02cb4567872b96af3a83ba34.jar" />
+    </item>
+    <item
+        jar="C:\Users\mao\Desktop\cniao5-shop-master\cniao5-shop2111\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.1\jars\libs\internal_impl-23.0.1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="aa92916125166649d8ad4ba3940c3dd7515596d3">
+        <dex dex="C:\Users\mao\Desktop\cniao5-shop-master\cniao5-shop2111\app\build\intermediates\pre-dexed\debug\internal_impl-23.0.1-df25a1b529c9ca87a2cf94056503c6dddc5b47b2.jar" />
+    </item>
+
+</items>
