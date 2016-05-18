@@ -12,4 +12,17 @@
     <string name="title_activity_ware_detail">WareDetailActivity</string>
     <string name="share">分享</string>
 
+
+    <string name="phone">手机号</string>
+    <string name="password">密码</string>
+    <string name="username">用户名</string>
+    <string name="validate_code">验证码</string>
+    <string name="login_fail">登录失败</string>
+    <string name="input_username_tip">请输入用户名</string>
+    <string name="input_phone_tip">请输入手机号</string>
+    <string name="input_username_phone_tip">请输入用户名或手机号</string>
+    <string name="input_password_tip">请输入密码</string>
+    <string name="input_validatecode_tip">请输入验证码</string>
+    <string name="get_validate_code">获取验证码</string>
+
 </resources>

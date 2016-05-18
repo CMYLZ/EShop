@@ -3,7 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
-      <module fileurl="file://$PROJECT_DIR$/cniao5-shop2111.iml" filepath="$PROJECT_DIR$/cniao5-shop2111.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cniao5-shop-new.iml" filepath="$PROJECT_DIR$/cniao5-shop-new.iml" />
       <module fileurl="file://$PROJECT_DIR$/sharesdk/sharesdk.iml" filepath="$PROJECT_DIR$/sharesdk/sharesdk.iml" />
     </modules>
   </component>
