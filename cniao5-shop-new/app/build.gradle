@@ -39,4 +39,5 @@ dependencies {
     compile project(':sharesdk')
     compile files('src/main/libs/ormlite-android-4.48.jar')
     compile files('src/main/libs/ormlite-core-4.48.jar')
+    compile files('src/main/libs/BmobSDK_V3.4.4_0930.jar')
 }

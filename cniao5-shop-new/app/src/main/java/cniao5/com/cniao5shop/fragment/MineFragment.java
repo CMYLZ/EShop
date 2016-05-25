@@ -40,6 +40,8 @@ public class MineFragment extends BaseFragment{
             txt_username = (TextView) mView.findViewById(R.id.txt_username);
             txt_username.setText(user.getUsername());
         }
+
+        findView();
     }
 
     private void findView() {
@@ -48,6 +50,11 @@ public class MineFragment extends BaseFragment{
 
             @Override
             public void onClick(View v) {
+
+                if(!"点击登录".equals(txt_username.getText().toString().trim())) {
+                    return;
+                }
+
                 Intent intent = new Intent(getActivity(), LoginActivity.class);
                 startActivity(intent);
             }

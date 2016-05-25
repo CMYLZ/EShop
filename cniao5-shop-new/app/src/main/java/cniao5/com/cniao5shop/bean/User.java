@@ -1,19 +1,15 @@
 package cniao5.com.cniao5shop.bean;
 
-import com.j256.ormlite.field.DatabaseField;
+import cn.bmob.v3.BmobObject;
 
-public class User {
+public class User extends BmobObject{
 
-    @DatabaseField(generatedId = true)
     private int id;
 
-    @DatabaseField
     private String username;
 
-    @DatabaseField
     private String password;
 
-    @DatabaseField
     private String headurl;
 
     public int getId() {
