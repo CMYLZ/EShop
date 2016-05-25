@@ -56,9 +56,9 @@
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:layout_toRightOf="@+id/checkbox_all"
-           android:layout_marginLeft="40dp"
+           android:layout_marginLeft="10dp"
             android:layout_centerVertical="true"
-            android:textSize="30dp"
+            android:textSize="20dp"
             android:text="合计"/>
 
         <Button
@@ -67,7 +67,7 @@
             android:layout_height="wrap_content"
             android:layout_alignParentRight="true"
             android:layout_centerVertical="true"
-            android:minHeight="60dp"
+            android:minHeight="45dp"
             android:minWidth="120dp"
             android:text="去结算"
             style="@style/bigRedButton"/>
