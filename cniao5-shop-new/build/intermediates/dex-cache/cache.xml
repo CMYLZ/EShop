@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="I:\data\大三下作业\软件案例课程\EShop\cniao5-shop-new\app\src\main\libs\ormlite-core-4.48.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="00b3081e1074bf380cc1d09d6ef4f8e5415311f2">
+        <dex dex="I:\data\大三下作业\软件案例课程\EShop\cniao5-shop-new\app\build\intermediates\pre-dexed\debug\ormlite-core-4.48-72fedda0092cfa5100fb5f6651d848ba0ff8bda6.jar" />
+    </item>
+    <item
+        jar="I:\data\大三下作业\软件案例课程\EShop\cniao5-shop-new\app\src\main\libs\ormlite-android-4.48.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="9e45246f4a068cad94e03f34bf8f24358279a7f7">
+        <dex dex="I:\data\大三下作业\软件案例课程\EShop\cniao5-shop-new\app\build\intermediates\pre-dexed\debug\ormlite-android-4.48-9780d76a03bbbbc919f4374fc927030cc4539518.jar" />
+    </item>
+
+</items>

@@ -1,0 +1,116 @@
+<resources>
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+
+    <dimen name="buttonCornerSize">2.0dip</dimen>
+    <dimen name="dialog_round_radius">4.0dip</dimen>
+    <dimen name="smallButtonHeight">32.0dip</dimen>
+    <dimen name="smallButtonWidth">48.0dip</dimen>
+    <dimen name="normalButtonHeight">48.0dip</dimen>
+    <dimen name="normalButtonWidth">80.0dip</dimen>
+
+    <dimen name="basicPaddingSize">4.0dip</dimen>
+    <dimen name="inputEditTextMinHeight">32.0dip</dimen>
+    <dimen name="searchViewMinHeight">45dip</dimen>
+    <dimen name="smallPadding">8.0dip</dimen>
+    <dimen name="largePadding">16.0dip</dimen>
+    <dimen name="largerPadding">24.0dip</dimen>
+    <dimen name="largestPadding">32.0dip</dimen>
+    <dimen name="smallerPadding">3.0dip</dimen>
+    <dimen name="littlePadding">6.0dip</dimen>
+    <dimen name="middlePadding">10.0dip</dimen>
+    <dimen name="normalPadding">12.0dip</dimen>
+    <dimen name="footerPadding">11.0dip</dimen>
+    <dimen name="noPadding">0.0dip</dimen>
+
+    <dimen name="bigButtonTextSize">18.0dip</dimen>
+    <dimen name="normalButtonTextSize">16.0dip</dimen>
+    <dimen name="smallButtonTextSize">14.0dip</dimen>
+
+
+
+    <dimen name="ware_grid_img_width">180dp</dimen>
+    <dimen name="ware_grid_img_height">180dp</dimen>
+    <dimen name="ware_img_height">150dp</dimen>
+    <dimen name="ware_img_width">150dp</dimen>
+    <dimen name="category_layout_width">120dp</dimen>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    <dimen name="app_common_actionbar_textSize">20sp</dimen>
+    <dimen name="app_common_border_padding">10dip</dimen>
+    <dimen name="app_common_border_strokeWidth">1dip</dimen>
+    <dimen name="app_common_actionbar_padding">10dip</dimen>
+
+    <dimen name="main_add_note_marginRight">25dip</dimen>
+    <dimen name="main_add_note_marginBottom">25dip</dimen>
+
+    <dimen name="note_add_bottom_paddingTop">0dip</dimen>
+    <dimen name="note_add_bottom_paddingBottom">0dip</dimen>
+    <dimen name="note_add_bottom_textSize">12sp</dimen>
+
+    <dimen name="note_add_bottom_tools_navigation_paddingTop">0dip</dimen>
+    <dimen name="note_add_bottom_tools_navigation_paddingRight">10dip</dimen>
+    <dimen name="note_add_bottom_tools_navigation_paddingBottom">0dip</dimen>
+    <dimen name="note_add_bottom_tools_navigation_textSize">18sp</dimen>
+    <dimen name="note_add_bottom_tools_navigation_text_paddingTop">10dip</dimen>
+    <dimen name="note_add_bottom_tools_navigation_text_paddingLeft">20dip</dimen>
+    <dimen name="note_add_bottom_tools_navigation_text_paddingRight">20dip</dimen>
+    <dimen name="note_add_bottom_tools_navigation_text_paddingBottom">10dip</dimen>
+
+    <dimen name="note_add_et_padding">10dip</dimen>
+    <dimen name="note_add_bottom_tools_navigation_arrowdown_padding">10dip</dimen>
+
+    <dimen name="note_add_tools_font_size_item_textSize">16sp</dimen>
+    <dimen name="note_add_tools_font_size_gv_horizontalPadding">10dip</dimen>
+    <dimen name="note_add_tools_font_scrollview_padding">5dip</dimen>
+    <dimen name="note_add_tools_font_color_gv_horizontalPadding">25dip</dimen>
+    <dimen name="note_add_tools_font_color_gv_verticalPadding">15dip</dimen>
+    <dimen name="note_add_tools_font_padding">10dip</dimen>
+
+    <dimen name="note_add_bottom_tools_font_style_textSize">35sp</dimen>
+
+    <!-- 笔记列表 -->
+    <dimen name="note_list_item_title_textSize">20sp</dimen>
+    <dimen name="note_list_item_content_textSize">16sp</dimen>
+    <dimen name="note_list_item_content_emojiSize">16sp</dimen>
+    <dimen name="note_list_item_time_textSize">12sp</dimen>
+    <dimen name="note_list_item_content_marginTop">5dip</dimen>
+    <dimen name="note_list_item_content_marginBottom">5dip</dimen>
+    <!-- 查看笔记 -->
+    <dimen name="note_view_title_textSize">18sp</dimen>
+    <!-- 设置 -->
+    <dimen name="about_textSize">20sp</dimen>
+
+
+
+
+</resources>
