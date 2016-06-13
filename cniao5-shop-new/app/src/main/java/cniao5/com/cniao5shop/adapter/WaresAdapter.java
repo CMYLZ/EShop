@@ -28,7 +28,7 @@ public class WaresAdapter extends SimpleAdapter<Wares> {
         SimpleDraweeView draweeView = (SimpleDraweeView) viewHoder.getView(R.id.drawee_view);
         draweeView.setImageURI(Uri.parse(item.getImgUrl()));
     }
-
+    //这是测试注释，请忽略
 
 
 }

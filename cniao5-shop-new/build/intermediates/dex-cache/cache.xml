@@ -2,277 +2,277 @@
 <items version="2" >
 
     <item
-        jar="C:\Users\mao\Desktop\曹阳项目\曹阳项目\cniao5-shop-new\app\src\main\libs\ormlite-core-4.48.jar"
-        jumboMode="false"
-        revision="23.0.1"
-        sha1="00b3081e1074bf380cc1d09d6ef4f8e5415311f2">
-        <dex dex="C:\Users\mao\Desktop\曹阳项目\曹阳项目\cniao5-shop-new\app\build\intermediates\pre-dexed\debug\ormlite-core-4.48-5c4fc5ca5b24746dfe9f607d9d37fc1caa05d7be.jar" />
-    </item>
-    <item
-        jar="C:\Users\mao\.gradle\caches\modules-2\files-2.1\com.google.code.gson\gson\2.3.1\ecb6e1f8e4b0e84c4b886c2f14a1500caf309757\gson-2.3.1.jar"
-        jumboMode="false"
-        revision="23.0.1"
-        sha1="ecb6e1f8e4b0e84c4b886c2f14a1500caf309757">
-        <dex dex="C:\Users\mao\Desktop\曹阳项目\曹阳项目\cniao5-shop-new\app\build\intermediates\pre-dexed\debug\gson-2.3.1-17568bd0a5f46e5a68d3c46fd01a6ffcc7b46248.jar" />
-    </item>
-    <item
-        jar="C:\Users\mao\Desktop\曹阳项目\曹阳项目\cniao5-shop-new\app\build\intermediates\exploded-aar\cniao5-shop-new\sharesdk\unspecified\jars\libs\ShareSDK-QQ-2.6.4.jar"
-        jumboMode="false"
-        revision="23.0.1"
-        sha1="e8d59be1960d4e1b1f9119cc77966e5f7c9fb7bd">
-        <dex dex="C:\Users\mao\Desktop\曹阳项目\曹阳项目\cniao5-shop-new\app\build\intermediates\pre-dexed\debug\ShareSDK-QQ-2.6.4-74ce96a23db7cb04c331e6b4acb75da08aa8382e.jar" />
-    </item>
-    <item
-        jar="C:\Users\mao\Desktop\曹阳项目\曹阳项目\cniao5-shop-new\app\src\main\libs\BmobSDK_V3.4.4_0930.jar"
-        jumboMode="false"
-        revision="23.0.1"
-        sha1="504064278d5cd28bb2c47245dd3af8176d4ce7eb">
-        <dex dex="C:\Users\mao\Desktop\曹阳项目\曹阳项目\cniao5-shop-new\app\build\intermediates\pre-dexed\debug\BmobSDK_V3.4.4_0930-5aaaa399a0676f952752c1d16e52777189efe3fa.jar" />
-    </item>
-    <item
-        jar="C:\Users\mao\Desktop\曹阳项目\曹阳项目\cniao5-shop-new\app\build\intermediates\exploded-aar\cniao5-shop-new\sharesdk\unspecified\jars\classes.jar"
-        jumboMode="false"
-        revision="23.0.1"
-        sha1="dc5243b410207bf6b6b5310922f875dfbcd22ff0">
-        <dex dex="C:\Users\mao\Desktop\曹阳项目\曹阳项目\cniao5-shop-new\app\build\intermediates\pre-dexed\debug\classes-a3e49b1eb1dd4c11c1af06679cdba845ae1dd257.jar" />
-    </item>
-    <item
-        jar="C:\Users\mao\Desktop\曹阳项目\曹阳项目\cniao5-shop-new\app\build\intermediates\exploded-aar\com.facebook.fresco\imagepipeline-okhttp\0.6.0\jars\classes.jar"
-        jumboMode="false"
-        revision="23.0.1"
-        sha1="543b4bf48e20cc32db51dbd9138ac181586ebe85">
-        <dex dex="C:\Users\mao\Desktop\曹阳项目\曹阳项目\cniao5-shop-new\app\build\intermediates\pre-dexed\debug\classes-570c46af0f3b811881c4bd479acea1060a0a6855.jar" />
-    </item>
-    <item
-        jar="I:\data\大三下作业\软件案例课程\EShop\cniao5-shop-new\app\src\main\libs\ormlite-android-4.48.jar"
-        jumboMode="false"
-        revision="23.0.1"
-        sha1="afa06f539a4026c10b247386312aa67404b80a16">
-        <dex dex="I:\data\大三下作业\软件案例课程\EShop\cniao5-shop-new\app\build\intermediates\pre-dexed\debug\ormlite-android-4.48-9780d76a03bbbbc919f4374fc927030cc4539518.jar" />
-    </item>
-    <item
-        jar="C:\Users\mao\Desktop\曹阳项目\曹阳项目\cniao5-shop-new\app\build\intermediates\exploded-aar\com.android.support\design\23.0.1\jars\classes.jar"
-        jumboMode="false"
-        revision="23.0.1"
-        sha1="e5c61a3169221a89654ffcaaed47bba51cf071ad">
-        <dex dex="C:\Users\mao\Desktop\曹阳项目\曹阳项目\cniao5-shop-new\app\build\intermediates\pre-dexed\debug\classes-daf9896e5b57aa1fb16558b35ae8cff3092e0f98.jar" />
-    </item>
-    <item
-        jar="C:\Users\mao\Desktop\曹阳项目\曹阳项目\cniao5-shop-new\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.1\jars\classes.jar"
-        jumboMode="false"
-        revision="23.0.1"
-        sha1="c31e21b53ff2f74664e498248d01453a32e32d48">
-        <dex dex="C:\Users\mao\Desktop\曹阳项目\曹阳项目\cniao5-shop-new\app\build\intermediates\pre-dexed\debug\classes-e52964ab834f124b1a0083727c07909173ba909f.jar" />
-    </item>
-    <item
-        jar="C:\Users\mao\Desktop\曹阳项目\曹阳项目\cniao5-shop-new\app\build\intermediates\exploded-aar\com.facebook.fresco\fresco\0.6.0\jars\classes.jar"
-        jumboMode="false"
-        revision="23.0.1"
-        sha1="27ebd5d2c69a1830b4ff47a1d5d4c6a4aab5e233">
-        <dex dex="C:\Users\mao\Desktop\曹阳项目\曹阳项目\cniao5-shop-new\app\build\intermediates\pre-dexed\debug\classes-94d676e650276ead0ef8341234b35e619a92c6b8.jar" />
-    </item>
-    <item
-        jar="C:\Users\mao\Desktop\曹阳项目\曹阳项目\cniao5-shop-new\app\build\intermediates\exploded-aar\cniao5-shop-new\sharesdk\unspecified\jars\libs\MobCommons.jar"
-        jumboMode="false"
-        revision="23.0.1"
-        sha1="86052ea3c2fcfa2f2d25d71ae34ab20b8c2dca9a">
-        <dex dex="C:\Users\mao\Desktop\曹阳项目\曹阳项目\cniao5-shop-new\app\build\intermediates\pre-dexed\debug\MobCommons-8bbb88cfdf8bdbbfb9287c14b59294cb6e798ae0.jar" />
-    </item>
-    <item
-        jar="C:\Users\mao\Desktop\曹阳项目\曹阳项目\cniao5-shop-new\app\src\main\libs\ormlite-android-4.48.jar"
-        jumboMode="false"
-        revision="23.0.1"
-        sha1="afa06f539a4026c10b247386312aa67404b80a16">
-        <dex dex="C:\Users\mao\Desktop\曹阳项目\曹阳项目\cniao5-shop-new\app\build\intermediates\pre-dexed\debug\ormlite-android-4.48-d6f4c231ca8370026613f519d2015c191861fcf3.jar" />
-    </item>
-    <item
-        jar="C:\Users\mao\Desktop\曹阳项目\曹阳项目\cniao5-shop-new\app\build\intermediates\exploded-aar\com.cjj.materialrefeshlayout\library\1.3.0\jars\classes.jar"
-        jumboMode="false"
-        revision="23.0.1"
-        sha1="597d857fe9b090c4582f0855a2c6d6cc45fec544">
-        <dex dex="C:\Users\mao\Desktop\曹阳项目\曹阳项目\cniao5-shop-new\app\build\intermediates\pre-dexed\debug\classes-424b7496e892e705f1f1344ed30ab8d92db39dcd.jar" />
-    </item>
-    <item
-        jar="C:\Users\mao\Desktop\曹阳项目\曹阳项目\cniao5-shop-new\app\build\intermediates\exploded-aar\cniao5-shop-new\sharesdk\unspecified\jars\libs\ShareSDK-QZone-2.6.4.jar"
-        jumboMode="false"
-        revision="23.0.1"
-        sha1="606a553246f241278b45e19d5029c915ae49c316">
-        <dex dex="C:\Users\mao\Desktop\曹阳项目\曹阳项目\cniao5-shop-new\app\build\intermediates\pre-dexed\debug\ShareSDK-QZone-2.6.4-7dbc1c2b988d9536c0b83ea1d3cc49bb1ef4f9ac.jar" />
-    </item>
-    <item
-        jar="C:\Users\mao\Desktop\曹阳项目\曹阳项目\cniao5-shop-new\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.1\jars\libs\internal_impl-23.0.1.jar"
-        jumboMode="false"
-        revision="23.0.1"
-        sha1="aa92916125166649d8ad4ba3940c3dd7515596d3">
-        <dex dex="C:\Users\mao\Desktop\曹阳项目\曹阳项目\cniao5-shop-new\app\build\intermediates\pre-dexed\debug\internal_impl-23.0.1-f256090a3dea58b85a79183dccba96f47ca2e014.jar" />
-    </item>
-    <item
-        jar="C:\Users\mao\Desktop\曹阳项目\曹阳项目\cniao5-shop-new\app\build\intermediates\exploded-aar\com.facebook.fresco\drawee\0.6.0\jars\classes.jar"
-        jumboMode="false"
-        revision="23.0.1"
-        sha1="d572f92ecb6ae3b66e807550b07e4a6cca1f737f">
-        <dex dex="C:\Users\mao\Desktop\曹阳项目\曹阳项目\cniao5-shop-new\app\build\intermediates\pre-dexed\debug\classes-8e4ba173c007c821191a2f2a18d7be52573235f9.jar" />
-    </item>
-    <item
-        jar="C:\Users\mao\Desktop\曹阳项目\曹阳项目\cniao5-shop-new\app\build\intermediates\exploded-aar\cniao5-shop-new\sharesdk\unspecified\jars\libs\ShareSDK-SinaWeibo-2.6.4.jar"
-        jumboMode="false"
-        revision="23.0.1"
-        sha1="4536d9f7a5fb826609d5a17b30cabb21ead18d1c">
-        <dex dex="C:\Users\mao\Desktop\曹阳项目\曹阳项目\cniao5-shop-new\app\build\intermediates\pre-dexed\debug\ShareSDK-SinaWeibo-2.6.4-6cc1ed385d0befeca2d5e1de6059c339e08cc254.jar" />
-    </item>
-    <item
-        jar="C:\Users\mao\Desktop\曹阳项目\曹阳项目\cniao5-shop-new\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.0.1\jars\classes.jar"
-        jumboMode="false"
-        revision="23.0.1"
-        sha1="d86429b0f0b3f3cafbeb78dda1b9d89119ccb05d">
-        <dex dex="C:\Users\mao\Desktop\曹阳项目\曹阳项目\cniao5-shop-new\app\build\intermediates\pre-dexed\debug\classes-d17891c3a74a655675538f3f9f609e1174a2c236.jar" />
-    </item>
-    <item
-        jar="C:\Users\mao\Desktop\曹阳项目\曹阳项目\cniao5-shop-new\app\build\intermediates\exploded-aar\com.facebook.fresco\imagepipeline\0.6.0\jars\classes.jar"
-        jumboMode="false"
-        revision="23.0.1"
-        sha1="b5eb6c5f132d34f7ece3fbae25feb43e4ea9d6aa">
-        <dex dex="C:\Users\mao\Desktop\曹阳项目\曹阳项目\cniao5-shop-new\app\build\intermediates\pre-dexed\debug\classes-0ce745d4ac5ac48a41d47923f45450cfe260d5c7.jar" />
-    </item>
-    <item
-        jar="C:\Users\mao\Desktop\曹阳项目\曹阳项目\cniao5-shop-new\app\build\intermediates\exploded-aar\de.hdodenhof\circleimageview\2.0.0\jars\classes.jar"
-        jumboMode="false"
-        revision="23.0.1"
-        sha1="031e8b3ab2df4ab43b1017f84417d7e10dfbb8d2">
-        <dex dex="C:\Users\mao\Desktop\曹阳项目\曹阳项目\cniao5-shop-new\app\build\intermediates\pre-dexed\debug\classes-70150a8bf6b6011502dcc5216b820a8452e897b4.jar" />
-    </item>
-    <item
-        jar="C:\Users\mao\Desktop\曹阳项目\曹阳项目\cniao5-shop-new\app\build\intermediates\exploded-aar\cniao5-shop-new\sharesdk\unspecified\jars\libs\MobTools.jar"
-        jumboMode="false"
-        revision="23.0.1"
-        sha1="4aae467e0a293d5d5cd0643e51b7b854bcc397c8">
-        <dex dex="C:\Users\mao\Desktop\曹阳项目\曹阳项目\cniao5-shop-new\app\build\intermediates\pre-dexed\debug\MobTools-e00e2cf9e6e89462ffe71402411e7ea5cc93013b.jar" />
-    </item>
-    <item
-        jar="C:\Users\mao\.gradle\caches\modules-2\files-2.1\com.squareup.picasso\picasso\2.5.2\7446d06ec8d4f7ffcc53f1da37c95f200dcb9387\picasso-2.5.2.jar"
-        jumboMode="false"
-        revision="23.0.1"
-        sha1="7446d06ec8d4f7ffcc53f1da37c95f200dcb9387">
-        <dex dex="C:\Users\mao\Desktop\曹阳项目\曹阳项目\cniao5-shop-new\app\build\intermediates\pre-dexed\debug\picasso-2.5.2-939c12649dd5c613477491333ffaeba3191f3cf6.jar" />
-    </item>
-    <item
-        jar="C:\Users\mao\Desktop\曹阳项目\曹阳项目\cniao5-shop-new\app\build\intermediates\exploded-aar\cniao5-shop-new\sharesdk\unspecified\jars\libs\ShareSDK-TencentWeibo-2.6.4.jar"
-        jumboMode="false"
-        revision="23.0.1"
-        sha1="83cf7f24b0717fbe9272342f0b971ed4af13d106">
-        <dex dex="C:\Users\mao\Desktop\曹阳项目\曹阳项目\cniao5-shop-new\app\build\intermediates\pre-dexed\debug\ShareSDK-TencentWeibo-2.6.4-92ea3e9399f09fa3dbdf9c18c59926977af0a6f4.jar" />
-    </item>
-    <item
-        jar="C:\Users\mao\.gradle\caches\modules-2\files-2.1\com.squareup.okio\okio\1.6.0\98476622f10715998eacf9240d6b479f12c66143\okio-1.6.0.jar"
-        jumboMode="false"
-        revision="23.0.1"
-        sha1="98476622f10715998eacf9240d6b479f12c66143">
-        <dex dex="C:\Users\mao\Desktop\曹阳项目\曹阳项目\cniao5-shop-new\app\build\intermediates\pre-dexed\debug\okio-1.6.0-cbc6eee6b6410a6d992170bb10e16cb10a33854c.jar" />
-    </item>
-    <item
-        jar="C:\Users\mao\.gradle\caches\modules-2\files-2.1\com.nineoldandroids\library\2.4.0\e9b63380f3a242dbdbf103a2355ad7e43bad17cb\library-2.4.0.jar"
-        jumboMode="false"
-        revision="23.0.1"
-        sha1="e9b63380f3a242dbdbf103a2355ad7e43bad17cb">
-        <dex dex="C:\Users\mao\Desktop\曹阳项目\曹阳项目\cniao5-shop-new\app\build\intermediates\pre-dexed\debug\library-2.4.0-edc94e29b95ebe1312a8a753f6aa10f8f4982b76.jar" />
-    </item>
-    <item
-        jar="C:\Users\mao\Desktop\曹阳项目\曹阳项目\cniao5-shop-new\app\build\intermediates\exploded-aar\cniao5-shop-new\sharesdk\unspecified\jars\libs\ShareSDK-Wechat-2.6.4.jar"
-        jumboMode="false"
-        revision="23.0.1"
-        sha1="100546a136041bcbeb9b90790b6361c932545676">
-        <dex dex="C:\Users\mao\Desktop\曹阳项目\曹阳项目\cniao5-shop-new\app\build\intermediates\pre-dexed\debug\ShareSDK-Wechat-2.6.4-75d962fb8db6f64b646d59427069eeaca9f110ff.jar" />
-    </item>
-    <item
-        jar="C:\Users\mao\Desktop\曹阳项目\曹阳项目\cniao5-shop-new\app\build\intermediates\exploded-aar\com.github.d-max\spots-dialog\0.4\jars\classes.jar"
-        jumboMode="false"
-        revision="23.0.1"
-        sha1="f82b3f786bf4937ed1a1cc9a9a811e154813ba9a">
-        <dex dex="C:\Users\mao\Desktop\曹阳项目\曹阳项目\cniao5-shop-new\app\build\intermediates\pre-dexed\debug\classes-a74bde9d875e398a7c2ac7a7841ddc6450557c1d.jar" />
-    </item>
-    <item
-        jar="C:\Users\mao\Desktop\曹阳项目\曹阳项目\cniao5-shop-new\app\build\intermediates\exploded-aar\cniao5-shop-new\sharesdk\unspecified\jars\libs\ShareSDK-Wechat-Favorite-2.6.4.jar"
-        jumboMode="false"
-        revision="23.0.1"
-        sha1="bd820f646c7b0315feb16ec95ae4686fa50ac74f">
-        <dex dex="C:\Users\mao\Desktop\曹阳项目\曹阳项目\cniao5-shop-new\app\build\intermediates\pre-dexed\debug\ShareSDK-Wechat-Favorite-2.6.4-3a5700e793f7be91de0b5227241ce7c28483f625.jar" />
-    </item>
-    <item
-        jar="C:\Users\mao\Desktop\曹阳项目\曹阳项目\cniao5-shop-new\app\build\intermediates\exploded-aar\com.facebook.fresco\fbcore\0.6.0\jars\classes.jar"
-        jumboMode="false"
-        revision="23.0.1"
-        sha1="87bffaacf21eb2c6fc61cf01930ff96ae175e798">
-        <dex dex="C:\Users\mao\Desktop\曹阳项目\曹阳项目\cniao5-shop-new\app\build\intermediates\pre-dexed\debug\classes-22d3bf8d582d9b5f95605b3df86403e2fd464d1d.jar" />
-    </item>
-    <item
-        jar="C:\Users\mao\Desktop\曹阳项目\曹阳项目\cniao5-shop-new\app\build\intermediates\exploded-aar\cniao5-shop-new\sharesdk\unspecified\jars\libs\ShareSDK-Wechat-Moments-2.6.4.jar"
-        jumboMode="false"
-        revision="23.0.1"
-        sha1="dc2b46a70ccf00592d33c3afde812993d9db4ac9">
-        <dex dex="C:\Users\mao\Desktop\曹阳项目\曹阳项目\cniao5-shop-new\app\build\intermediates\pre-dexed\debug\ShareSDK-Wechat-Moments-2.6.4-9284a8c3eff17aae90ca3cce6ef5d3412ebb5f16.jar" />
-    </item>
-    <item
-        jar="C:\Users\mao\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp\okhttp\2.5.0\4de2b4ed3445c37ec1720a7d214712e845a24636\okhttp-2.5.0.jar"
-        jumboMode="false"
-        revision="23.0.1"
-        sha1="4de2b4ed3445c37ec1720a7d214712e845a24636">
-        <dex dex="C:\Users\mao\Desktop\曹阳项目\曹阳项目\cniao5-shop-new\app\build\intermediates\pre-dexed\debug\okhttp-2.5.0-6f8856946eaa41ab8f9ec24550a356792aaa07f2.jar" />
-    </item>
-    <item
-        jar="C:\Users\mao\Desktop\曹阳项目\曹阳项目\cniao5-shop-new\app\build\intermediates\exploded-aar\cniao5-shop-new\sharesdk\unspecified\jars\libs\ShareSDK-Wechat-Core-2.6.4.jar"
-        jumboMode="false"
-        revision="23.0.1"
-        sha1="a6e8417962070d895b3567c68f104f628462bc35">
-        <dex dex="C:\Users\mao\Desktop\曹阳项目\曹阳项目\cniao5-shop-new\app\build\intermediates\pre-dexed\debug\ShareSDK-Wechat-Core-2.6.4-891371d4513f76fb654647f0ae3e59235def8b55.jar" />
-    </item>
-    <item
-        jar="C:\Users\mao\Desktop\曹阳项目\曹阳项目\cniao5-shop-new\app\build\intermediates\exploded-aar\com.daimajia.slider\library\1.1.5\jars\classes.jar"
-        jumboMode="false"
-        revision="23.0.1"
-        sha1="08962e03b6a954c65d4944e092879b7f5ee1208d">
-        <dex dex="C:\Users\mao\Desktop\曹阳项目\曹阳项目\cniao5-shop-new\app\build\intermediates\pre-dexed\debug\classes-f14598c7dff78e80e8d84c6a56c31de428d28c60.jar" />
-    </item>
-    <item
-        jar="C:\Users\mao\Desktop\曹阳项目\曹阳项目\cniao5-shop-new\app\build\intermediates\exploded-aar\com.jiechic.library\xUtils\2.6.14\jars\classes.jar"
-        jumboMode="false"
-        revision="23.0.1"
-        sha1="fe75606aa9485cd20177894c204291a79a0cc7ab">
-        <dex dex="C:\Users\mao\Desktop\曹阳项目\曹阳项目\cniao5-shop-new\app\build\intermediates\pre-dexed\debug\classes-6b8ca7940e4031f5973242f6d4433ef2e1fbae45.jar" />
-    </item>
-    <item
-        jar="C:\Users\mao\.gradle\caches\modules-2\files-2.1\com.parse.bolts\bolts-android\1.1.4\129874135e6081269ace2312092031558865de12\bolts-android-1.1.4.jar"
-        jumboMode="false"
+        jar="C:\Users\TENHAN\.gradle\caches\modules-2\files-2.1\com.parse.bolts\bolts-android\1.1.4\129874135e6081269ace2312092031558865de12\bolts-android-1.1.4.jar"
+        jumboMode="true"
         revision="23.0.1"
         sha1="129874135e6081269ace2312092031558865de12">
-        <dex dex="C:\Users\mao\Desktop\曹阳项目\曹阳项目\cniao5-shop-new\app\build\intermediates\pre-dexed\debug\bolts-android-1.1.4-36e34f0ff4dbc41545d978cfcecc7836ccb4c13f.jar" />
+        <dex dex="C:\Users\TENHAN\Desktop\123\cniao5-shop-new\app\build\intermediates\pre-dexed\debug\bolts-android-1.1.4_2ec56aae160f81f5331649c527d431aba4470d95.jar" />
     </item>
     <item
-        jar="C:\Users\mao\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\23.0.1\support-annotations-23.0.1.jar"
-        jumboMode="false"
+        jar="C:\Users\TENHAN\Desktop\123\cniao5-shop-new\app\build\intermediates\exploded-aar\com.github.d-max\spots-dialog\0.4\jars\classes.jar"
+        jumboMode="true"
         revision="23.0.1"
-        sha1="1fce89a6428c51467090d7f424e4c9c3dbd55f7e">
-        <dex dex="C:\Users\mao\Desktop\曹阳项目\曹阳项目\cniao5-shop-new\app\build\intermediates\pre-dexed\debug\support-annotations-23.0.1-ac3c18f7272219a7f3469b8cf0325804629ec549.jar" />
+        sha1="f82b3f786bf4937ed1a1cc9a9a811e154813ba9a">
+        <dex dex="C:\Users\TENHAN\Desktop\123\cniao5-shop-new\app\build\intermediates\pre-dexed\debug\com.github.d-max-spots-dialog-0.4_15d0417d682e05c479b28e75da3d50297d00783b.jar" />
     </item>
     <item
-        jar="C:\Users\mao\Desktop\曹阳项目\曹阳项目\cniao5-shop-new\app\build\intermediates\exploded-aar\com.android.support\cardview-v7\23.0.1\jars\classes.jar"
-        jumboMode="false"
+        jar="C:\Users\TENHAN\Desktop\123\cniao5-shop-new\app\src\main\libs\ormlite-android-4.48.jar"
+        jumboMode="true"
         revision="23.0.1"
-        sha1="39ae02ce40c3ac828abbf780ce0ff5d7a28b7d6a">
-        <dex dex="C:\Users\mao\Desktop\曹阳项目\曹阳项目\cniao5-shop-new\app\build\intermediates\pre-dexed\debug\classes-4ee51671720d09780eb461057447a2733fa1e1dd.jar" />
+        sha1="afa06f539a4026c10b247386312aa67404b80a16">
+        <dex dex="C:\Users\TENHAN\Desktop\123\cniao5-shop-new\app\build\intermediates\pre-dexed\debug\ormlite-android-4.48_24cbda64427fe534d7158025e7075814664083f9.jar" />
     </item>
     <item
-        jar="C:\Users\mao\Desktop\曹阳项目\曹阳项目\cniao5-shop-new\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\23.0.1\jars\classes.jar"
-        jumboMode="false"
+        jar="C:\Users\TENHAN\Desktop\123\cniao5-shop-new\app\build\intermediates\exploded-aar\cniao5-shop-new\sharesdk\unspecified\jars\libs\ShareSDK-SinaWeibo-2.6.4.jar"
+        jumboMode="true"
+        revision="23.0.1"
+        sha1="af07835851d86fdf0c5a281659910de15b96246b">
+        <dex dex="C:\Users\TENHAN\Desktop\123\cniao5-shop-new\app\build\intermediates\pre-dexed\debug\ShareSDK-SinaWeibo-2.6.4_dc4d28a0e18b8faec121aaa3e7b38035ecf24cff.jar" />
+    </item>
+    <item
+        jar="C:\Users\TENHAN\Desktop\123\cniao5-shop-new\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\23.0.1\jars\classes.jar"
+        jumboMode="true"
         revision="23.0.1"
         sha1="4356e230a981d1bbf047d848b91bc0d9b7c5bacc">
-        <dex dex="C:\Users\mao\Desktop\曹阳项目\曹阳项目\cniao5-shop-new\app\build\intermediates\pre-dexed\debug\classes-9b596614309058c5d739344757b8b21818db1a8a.jar" />
+        <dex dex="C:\Users\TENHAN\Desktop\123\cniao5-shop-new\app\build\intermediates\pre-dexed\debug\com.android.support-recyclerview-v7-23.0.1_abaeef5bf0da3f93b73540113f104767fdc5e9f5.jar" />
     </item>
     <item
-        jar="C:\Users\mao\Desktop\曹阳项目\曹阳项目\cniao5-shop-new\app\build\intermediates\exploded-aar\cniao5-shop-new\sharesdk\unspecified\jars\libs\ShareSDK-Core-2.6.4.jar"
-        jumboMode="false"
+        jar="C:\Users\TENHAN\Desktop\123\cniao5-shop-new\app\build\intermediates\exploded-aar\com.android.support\cardview-v7\23.0.1\jars\classes.jar"
+        jumboMode="true"
         revision="23.0.1"
-        sha1="7bb32fc69b3520f10333fcc5cdd78a4495761a64">
-        <dex dex="C:\Users\mao\Desktop\曹阳项目\曹阳项目\cniao5-shop-new\app\build\intermediates\pre-dexed\debug\ShareSDK-Core-2.6.4-4999344e2141ab37e96e00a7543e83c0e45ef2ee.jar" />
+        sha1="39ae02ce40c3ac828abbf780ce0ff5d7a28b7d6a">
+        <dex dex="C:\Users\TENHAN\Desktop\123\cniao5-shop-new\app\build\intermediates\pre-dexed\debug\com.android.support-cardview-v7-23.0.1_4300e0b59b77b2bc28b3a6660f4dc0a1f94b1e63.jar" />
+    </item>
+    <item
+        jar="C:\Users\TENHAN\Desktop\123\cniao5-shop-new\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.1\jars\libs\internal_impl-23.0.1.jar"
+        jumboMode="true"
+        revision="23.0.1"
+        sha1="aa92916125166649d8ad4ba3940c3dd7515596d3">
+        <dex dex="C:\Users\TENHAN\Desktop\123\cniao5-shop-new\app\build\intermediates\pre-dexed\debug\internal_impl-23.0.1_f09a08c0c556fdba04e1ddc346aa7f2f4df0666c.jar" />
+    </item>
+    <item
+        jar="C:\Users\TENHAN\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\23.0.1\support-annotations-23.0.1.jar"
+        jumboMode="true"
+        revision="23.0.1"
+        sha1="1fce89a6428c51467090d7f424e4c9c3dbd55f7e">
+        <dex dex="C:\Users\TENHAN\Desktop\123\cniao5-shop-new\app\build\intermediates\pre-dexed\debug\support-annotations-23.0.1_c786fad382865490bb4b6d626027c974edcf0d0d.jar" />
+    </item>
+    <item
+        jar="C:\Users\TENHAN\Desktop\123\cniao5-shop-new\app\build\intermediates\exploded-aar\cniao5-shop-new\sharesdk\unspecified\jars\libs\ShareSDK-Wechat-2.6.4.jar"
+        jumboMode="true"
+        revision="23.0.1"
+        sha1="7956af0865d1dff7f08c5cef845ac1abc1650c1f">
+        <dex dex="C:\Users\TENHAN\Desktop\123\cniao5-shop-new\app\build\intermediates\pre-dexed\debug\ShareSDK-Wechat-2.6.4_c9678aab3e75d9b07d7315ab49ca4c58532d3ba7.jar" />
+    </item>
+    <item
+        jar="C:\Users\TENHAN\Desktop\123\cniao5-shop-new\app\build\intermediates\exploded-aar\com.facebook.fresco\fresco\0.6.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.1"
+        sha1="27ebd5d2c69a1830b4ff47a1d5d4c6a4aab5e233">
+        <dex dex="C:\Users\TENHAN\Desktop\123\cniao5-shop-new\app\build\intermediates\pre-dexed\debug\com.facebook.fresco-fresco-0.6.0_ab8a206fcf4e379eab61f33cfc2a23e013b5a5d0.jar" />
+    </item>
+    <item
+        jar="C:\Users\TENHAN\Desktop\123\cniao5-shop-new\app\src\main\libs\ormlite-core-4.48.jar"
+        jumboMode="true"
+        revision="23.0.1"
+        sha1="00b3081e1074bf380cc1d09d6ef4f8e5415311f2">
+        <dex dex="C:\Users\TENHAN\Desktop\123\cniao5-shop-new\app\build\intermediates\pre-dexed\debug\ormlite-core-4.48_db1d79295d68256cf0bd4631ddfe218badf262f2.jar" />
+    </item>
+    <item
+        jar="C:\Users\TENHAN\Desktop\123\cniao5-shop-new\app\build\intermediates\exploded-aar\cniao5-shop-new\sharesdk\unspecified\jars\libs\MobTools.jar"
+        jumboMode="true"
+        revision="23.0.1"
+        sha1="e8f66716cd4f7f8be385c33e18594c3cb19b51e6">
+        <dex dex="C:\Users\TENHAN\Desktop\123\cniao5-shop-new\app\build\intermediates\pre-dexed\debug\MobTools_dfc595d58b4dfe6be8b18880858c1c5840d551f8.jar" />
+    </item>
+    <item
+        jar="C:\Users\TENHAN\Desktop\123\cniao5-shop-new\app\build\intermediates\exploded-aar\com.facebook.fresco\drawee\0.6.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.1"
+        sha1="d572f92ecb6ae3b66e807550b07e4a6cca1f737f">
+        <dex dex="C:\Users\TENHAN\Desktop\123\cniao5-shop-new\app\build\intermediates\pre-dexed\debug\com.facebook.fresco-drawee-0.6.0_a7752d6c8ca518a7e6649e8160dee41a142cc41a.jar" />
+    </item>
+    <item
+        jar="C:\Users\TENHAN\.gradle\caches\modules-2\files-2.1\com.squareup.okio\okio\1.6.0\98476622f10715998eacf9240d6b479f12c66143\okio-1.6.0.jar"
+        jumboMode="true"
+        revision="23.0.1"
+        sha1="98476622f10715998eacf9240d6b479f12c66143">
+        <dex dex="C:\Users\TENHAN\Desktop\123\cniao5-shop-new\app\build\intermediates\pre-dexed\debug\okio-1.6.0_abd7996f0b49c30fb1303d02393d82d91bdc0382.jar" />
+    </item>
+    <item
+        jar="C:\Users\TENHAN\Desktop\123\cniao5-shop-new\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.0.1\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.1"
+        sha1="d86429b0f0b3f3cafbeb78dda1b9d89119ccb05d">
+        <dex dex="C:\Users\TENHAN\Desktop\123\cniao5-shop-new\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-23.0.1_3b96b21722c60bba091201c30be192684ed742ee.jar" />
+    </item>
+    <item
+        jar="C:\Users\TENHAN\Desktop\123\cniao5-shop-new\app\build\intermediates\exploded-aar\cniao5-shop-new\sharesdk\unspecified\jars\libs\ShareSDK-QZone-2.6.4.jar"
+        jumboMode="true"
+        revision="23.0.1"
+        sha1="d955425fc5862208aaab72c4632ac4b4c2f5066a">
+        <dex dex="C:\Users\TENHAN\Desktop\123\cniao5-shop-new\app\build\intermediates\pre-dexed\debug\ShareSDK-QZone-2.6.4_7ce04cf1d6a4c31c5cc975422cbcf0fe3dec4008.jar" />
+    </item>
+    <item
+        jar="C:\Users\TENHAN\Desktop\123\cniao5-shop-new\app\build\intermediates\exploded-aar\com.jiechic.library\xUtils\2.6.14\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.1"
+        sha1="fe75606aa9485cd20177894c204291a79a0cc7ab">
+        <dex dex="C:\Users\TENHAN\Desktop\123\cniao5-shop-new\app\build\intermediates\pre-dexed\debug\com.jiechic.library-xUtils-2.6.14_452606c37686344791d3aebdbad7aa4356b40792.jar" />
+    </item>
+    <item
+        jar="C:\Users\TENHAN\Desktop\123\cniao5-shop-new\app\build\intermediates\exploded-aar\de.hdodenhof\circleimageview\2.0.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.1"
+        sha1="031e8b3ab2df4ab43b1017f84417d7e10dfbb8d2">
+        <dex dex="C:\Users\TENHAN\Desktop\123\cniao5-shop-new\app\build\intermediates\pre-dexed\debug\de.hdodenhof-circleimageview-2.0.0_62b4de99caabf2dc29b54f92a95f529b0ecccca6.jar" />
+    </item>
+    <item
+        jar="C:\Users\TENHAN\Desktop\123\cniao5-shop-new\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.1\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.1"
+        sha1="c31e21b53ff2f74664e498248d01453a32e32d48">
+        <dex dex="C:\Users\TENHAN\Desktop\123\cniao5-shop-new\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-23.0.1_a2c3e8c28526d82ed69fc07dcaf34e1e4730cf78.jar" />
+    </item>
+    <item
+        jar="C:\Users\TENHAN\Desktop\123\cniao5-shop-new\app\build\intermediates\exploded-aar\cniao5-shop-new\sharesdk\unspecified\jars\libs\ShareSDK-Wechat-Favorite-2.6.4.jar"
+        jumboMode="true"
+        revision="23.0.1"
+        sha1="e5eb96dc48df897078c384b042f0718ee3f2f18d">
+        <dex dex="C:\Users\TENHAN\Desktop\123\cniao5-shop-new\app\build\intermediates\pre-dexed\debug\ShareSDK-Wechat-Favorite-2.6.4_a05ccf2246468e65689d8eb7b65ae51ee1a2c550.jar" />
+    </item>
+    <item
+        jar="C:\Users\TENHAN\Desktop\123\cniao5-shop-new\app\src\main\libs\BmobSDK_V3.4.4_0930.jar"
+        jumboMode="true"
+        revision="23.0.1"
+        sha1="504064278d5cd28bb2c47245dd3af8176d4ce7eb">
+        <dex dex="C:\Users\TENHAN\Desktop\123\cniao5-shop-new\app\build\intermediates\pre-dexed\debug\BmobSDK_V3.4.4_0930_235474c097d30c441a6aa12e4d38d04ca14d3622.jar" />
+    </item>
+    <item
+        jar="C:\Users\TENHAN\Desktop\123\cniao5-shop-new\app\build\intermediates\exploded-aar\cniao5-shop-new\sharesdk\unspecified\jars\libs\ShareSDK-Wechat-Core-2.6.4.jar"
+        jumboMode="true"
+        revision="23.0.1"
+        sha1="d6eee7770969c430060b332eec09b5c3c163a228">
+        <dex dex="C:\Users\TENHAN\Desktop\123\cniao5-shop-new\app\build\intermediates\pre-dexed\debug\ShareSDK-Wechat-Core-2.6.4_29a7659b31d9db07e844501d536f460bf3734d20.jar" />
+    </item>
+    <item
+        jar="C:\Users\TENHAN\Desktop\123\cniao5-shop-new\app\build\intermediates\exploded-aar\cniao5-shop-new\sharesdk\unspecified\jars\libs\ShareSDK-Wechat-Moments-2.6.4.jar"
+        jumboMode="true"
+        revision="23.0.1"
+        sha1="81f077db63554c0b9870fa41e350dc7b87c44421">
+        <dex dex="C:\Users\TENHAN\Desktop\123\cniao5-shop-new\app\build\intermediates\pre-dexed\debug\ShareSDK-Wechat-Moments-2.6.4_c38840e728412ccdd8ac651dcdfdd66298ac71d5.jar" />
+    </item>
+    <item
+        jar="C:\Users\TENHAN\Desktop\123\cniao5-shop-new\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="23.0.1"
+        sha1="c35fcb86441b60f64bb851fd542950b9238cd785">
+        <dex dex="C:\Users\TENHAN\Desktop\123\cniao5-shop-new\app\build\intermediates\pre-dexed\debug\instant-run-bootstrap_ca3e951e212f36843c242767d4618a6e1489fb8f.jar" />
+    </item>
+    <item
+        jar="C:\Users\TENHAN\.gradle\caches\modules-2\files-2.1\com.squareup.picasso\picasso\2.5.2\7446d06ec8d4f7ffcc53f1da37c95f200dcb9387\picasso-2.5.2.jar"
+        jumboMode="true"
+        revision="23.0.1"
+        sha1="7446d06ec8d4f7ffcc53f1da37c95f200dcb9387">
+        <dex dex="C:\Users\TENHAN\Desktop\123\cniao5-shop-new\app\build\intermediates\pre-dexed\debug\picasso-2.5.2_e527f3f977f8945df5569c1e73913d005076d8ad.jar" />
+    </item>
+    <item
+        jar="C:\Users\TENHAN\Desktop\123\cniao5-shop-new\app\build\intermediates\exploded-aar\com.cjj.materialrefeshlayout\library\1.3.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.1"
+        sha1="597d857fe9b090c4582f0855a2c6d6cc45fec544">
+        <dex dex="C:\Users\TENHAN\Desktop\123\cniao5-shop-new\app\build\intermediates\pre-dexed\debug\com.cjj.materialrefeshlayout-library-1.3.0_f8d1c8a868bd08f94d665d7f3762c2e412c2be6d.jar" />
+    </item>
+    <item
+        jar="C:\Users\TENHAN\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp\okhttp\2.5.0\4de2b4ed3445c37ec1720a7d214712e845a24636\okhttp-2.5.0.jar"
+        jumboMode="true"
+        revision="23.0.1"
+        sha1="4de2b4ed3445c37ec1720a7d214712e845a24636">
+        <dex dex="C:\Users\TENHAN\Desktop\123\cniao5-shop-new\app\build\intermediates\pre-dexed\debug\okhttp-2.5.0_c7091aa9b40d53b2bcf31d02dcf02e89811d81cb.jar" />
+    </item>
+    <item
+        jar="C:\Users\TENHAN\Desktop\123\cniao5-shop-new\app\build\intermediates\exploded-aar\com.facebook.fresco\fbcore\0.6.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.1"
+        sha1="87bffaacf21eb2c6fc61cf01930ff96ae175e798">
+        <dex dex="C:\Users\TENHAN\Desktop\123\cniao5-shop-new\app\build\intermediates\pre-dexed\debug\com.facebook.fresco-fbcore-0.6.0_21d7911b8f7eaa4dc996ff1a4d6ab002d0032883.jar" />
+    </item>
+    <item
+        jar="C:\Users\TENHAN\Desktop\123\cniao5-shop-new\app\build\intermediates\exploded-aar\com.android.support\design\23.0.1\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.1"
+        sha1="e5c61a3169221a89654ffcaaed47bba51cf071ad">
+        <dex dex="C:\Users\TENHAN\Desktop\123\cniao5-shop-new\app\build\intermediates\pre-dexed\debug\com.android.support-design-23.0.1_4bf8cf63a4221a030ee1f89d9c49924f6d2ffd10.jar" />
+    </item>
+    <item
+        jar="C:\Users\TENHAN\Desktop\123\cniao5-shop-new\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        revision="23.0.1"
+        sha1="41cb2d91ae8285511e478f49fd3def889de6b313">
+        <dex dex="C:\Users\TENHAN\Desktop\123\cniao5-shop-new\app\build\intermediates\pre-dexed\debug\instant-run_7bd18ff0a9cccf39597ef25e9727079b1b637117.jar" />
+    </item>
+    <item
+        jar="C:\Users\TENHAN\Desktop\123\cniao5-shop-new\app\build\intermediates\exploded-aar\cniao5-shop-new\sharesdk\unspecified\jars\libs\ShareSDK-TencentWeibo-2.6.4.jar"
+        jumboMode="true"
+        revision="23.0.1"
+        sha1="c60a553cdaf14d3213debeb577c29d1fedbd0267">
+        <dex dex="C:\Users\TENHAN\Desktop\123\cniao5-shop-new\app\build\intermediates\pre-dexed\debug\ShareSDK-TencentWeibo-2.6.4_03a3868bf589e9956506b51e4de9ba2afc1f5a77.jar" />
+    </item>
+    <item
+        jar="C:\Users\TENHAN\Desktop\123\cniao5-shop-new\app\build\intermediates\exploded-aar\cniao5-shop-new\sharesdk\unspecified\jars\libs\MobCommons.jar"
+        jumboMode="true"
+        revision="23.0.1"
+        sha1="593849d38f49d81f3bb81953f7977d37122eb952">
+        <dex dex="C:\Users\TENHAN\Desktop\123\cniao5-shop-new\app\build\intermediates\pre-dexed\debug\MobCommons_646a996b447fde5372b4cc5049bbb1addef5df6e.jar" />
+    </item>
+    <item
+        jar="C:\Users\TENHAN\Desktop\123\cniao5-shop-new\app\build\intermediates\exploded-aar\cniao5-shop-new\sharesdk\unspecified\jars\libs\ShareSDK-QQ-2.6.4.jar"
+        jumboMode="true"
+        revision="23.0.1"
+        sha1="d7643f7fd8b07fca7687ded9083b6207a8e5468b">
+        <dex dex="C:\Users\TENHAN\Desktop\123\cniao5-shop-new\app\build\intermediates\pre-dexed\debug\ShareSDK-QQ-2.6.4_2a9fef2d85f381a8a1719c22763caaf7186b733f.jar" />
+    </item>
+    <item
+        jar="C:\Users\TENHAN\.gradle\caches\modules-2\files-2.1\com.nineoldandroids\library\2.4.0\e9b63380f3a242dbdbf103a2355ad7e43bad17cb\library-2.4.0.jar"
+        jumboMode="true"
+        revision="23.0.1"
+        sha1="e9b63380f3a242dbdbf103a2355ad7e43bad17cb">
+        <dex dex="C:\Users\TENHAN\Desktop\123\cniao5-shop-new\app\build\intermediates\pre-dexed\debug\library-2.4.0_9ad5ef4234ca79aaf4449469bbbae70acd4abc27.jar" />
+    </item>
+    <item
+        jar="C:\Users\TENHAN\Desktop\123\cniao5-shop-new\app\build\intermediates\exploded-aar\com.daimajia.slider\library\1.1.5\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.1"
+        sha1="08962e03b6a954c65d4944e092879b7f5ee1208d">
+        <dex dex="C:\Users\TENHAN\Desktop\123\cniao5-shop-new\app\build\intermediates\pre-dexed\debug\com.daimajia.slider-library-1.1.5_0a073fb1db8e83ddfec1ba95caa5d1fa23555572.jar" />
+    </item>
+    <item
+        jar="C:\Users\TENHAN\Desktop\123\cniao5-shop-new\app\build\intermediates\exploded-aar\cniao5-shop-new\sharesdk\unspecified\jars\libs\ShareSDK-Core-2.6.4.jar"
+        jumboMode="true"
+        revision="23.0.1"
+        sha1="8304e9482c40b2e3333880c38dbfeb70f698a8ed">
+        <dex dex="C:\Users\TENHAN\Desktop\123\cniao5-shop-new\app\build\intermediates\pre-dexed\debug\ShareSDK-Core-2.6.4_0868e4ab8e8b072a370960b9ac81588e986fc641.jar" />
+    </item>
+    <item
+        jar="C:\Users\TENHAN\Desktop\123\cniao5-shop-new\app\build\intermediates\exploded-aar\com.facebook.fresco\imagepipeline-okhttp\0.6.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.1"
+        sha1="543b4bf48e20cc32db51dbd9138ac181586ebe85">
+        <dex dex="C:\Users\TENHAN\Desktop\123\cniao5-shop-new\app\build\intermediates\pre-dexed\debug\com.facebook.fresco-imagepipeline-okhttp-0.6.0_b1e10d56584fbf3d54a89d2d9d6bc4514a81d4b1.jar" />
+    </item>
+    <item
+        jar="C:\Users\TENHAN\.gradle\caches\modules-2\files-2.1\com.google.code.gson\gson\2.3.1\ecb6e1f8e4b0e84c4b886c2f14a1500caf309757\gson-2.3.1.jar"
+        jumboMode="true"
+        revision="23.0.1"
+        sha1="ecb6e1f8e4b0e84c4b886c2f14a1500caf309757">
+        <dex dex="C:\Users\TENHAN\Desktop\123\cniao5-shop-new\app\build\intermediates\pre-dexed\debug\gson-2.3.1_9688545d8322c3f29701d6d9a2d8b1a246ac7928.jar" />
+    </item>
+    <item
+        jar="C:\Users\TENHAN\Desktop\123\cniao5-shop-new\app\build\intermediates\exploded-aar\com.facebook.fresco\imagepipeline\0.6.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.1"
+        sha1="b5eb6c5f132d34f7ece3fbae25feb43e4ea9d6aa">
+        <dex dex="C:\Users\TENHAN\Desktop\123\cniao5-shop-new\app\build\intermediates\pre-dexed\debug\com.facebook.fresco-imagepipeline-0.6.0_f96ecf4962c7ae10acdcb1dc30e17b3c1362f972.jar" />
     </item>
 
 </items>
