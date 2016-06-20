@@ -40,11 +40,8 @@ import cniao5.com.cniao5shop.http.SpotsCallBack;
 
 public class CategoryFragment extends BaseFragment {
 
-
-
     @ViewInject(R.id.recyclerview_category)
     private RecyclerView mRecyclerView;
-
 
     @ViewInject(R.id.recyclerview_wares)
     private RecyclerView mRecyclerviewWares;
@@ -58,26 +55,17 @@ public class CategoryFragment extends BaseFragment {
     private CategoryAdapter mCategoryAdapter;
     private WaresAdapter mWaresAdatper;
 
-
     private OkHttpHelper mHttpHelper = OkHttpHelper.getInstance();
-
 
     private int currPage=1;
     private int totalPage=1;
     private int pageSize=10;
     private long category_id=0;
 
-
     private  static final int STATE_NORMAL=0;
     private  static final int STATE_REFREH=1;
     private  static final int STATE_MORE=2;
-
     private int state=STATE_NORMAL;
-
-
-
-
-
 
     @Override
     public View createView(LayoutInflater inflater, ViewGroup container, Bundle savedInstanceState) {
@@ -86,16 +74,12 @@ public class CategoryFragment extends BaseFragment {
 
     @Override
     public void init() {
-
         requestCategoryData();
         requestBannerData();
-
         initRefreshLayout();
     }
 
-
     private  void initRefreshLayout(){
-
         mRefreshLaout.setLoadMore(true);
         mRefreshLaout.setMaterialRefreshListener(new MaterialRefreshListener() {
             @Override
@@ -104,46 +88,38 @@ public class CategoryFragment extends BaseFragment {
                 refreshData();
 
             }
-
             @Override
             public void onRefreshLoadMore(MaterialRefreshLayout materialRefreshLayout) {
-
                 if(currPage <=totalPage)
                     loadMoreData();
                 else{
-//                    Toast.makeText()
                     mRefreshLaout.finishRefreshLoadMore();
                 }
             }
         });
     }
 
-
     private  void refreshData(){
-
         currPage =1;
-
         state=STATE_REFREH;
         requestWares(category_id);
+    }
+
+    /**
+     * 由于原来的项目是有两个标题，现在需要去掉一个
+     */
+    private void setTitle(){
 
     }
 
     private void loadMoreData(){
-
         currPage = ++currPage;
         state = STATE_MORE;
         requestWares(category_id);
-
     }
 
-
     private  void requestCategoryData(){
-
-
-
         mHttpHelper.get(Contants.API.CATEGORY_LIST, new SpotsCallBack<List<Category>>(getContext()) {
-
-
             @Override
             public void onSuccess(Response response, List<Category> categories) {
 
@@ -163,8 +139,6 @@ public class CategoryFragment extends BaseFragment {
     }
 
     private  void showCategoryData(List<Category> categories){
-
-
         mCategoryAdapter = new CategoryAdapter(getContext(),categories);
 
         mCategoryAdapter.setOnItemClickListener(new BaseAdapter.OnItemClickListener() {
@@ -178,8 +152,6 @@ public class CategoryFragment extends BaseFragment {
                 state=STATE_NORMAL;
 
                 requestWares(category_id);
-
-
             }
         });
 
@@ -187,44 +159,25 @@ public class CategoryFragment extends BaseFragment {
         mRecyclerView.setLayoutManager(new LinearLayoutManager(getContext()));
         mRecyclerView.setItemAnimator(new DefaultItemAnimator());
         mRecyclerView.addItemDecoration(new DividerItemDecoration(getContext(),DividerItemDecoration.VERTICAL_LIST));
-
-
     }
 
-
-
-
-
     private void requestBannerData( ) {
-
-
-
        String url = Contants.API.BANNER+"?type=1";
-
         mHttpHelper.get(url, new SpotsCallBack<List<Banner>>(getContext()){
-
-
             @Override
             public void onSuccess(Response response, List<Banner> banners) {
 
                 showSliderViews(banners);
             }
-
             @Override
             public void onError(Response response, int code, Exception e) {
 
             }
         });
-
     }
 
 
-
     private void showSliderViews(List<Banner> banners){
-
-
-
-
         if(banners !=null){
 
             for (Banner banner : banners){
@@ -238,21 +191,12 @@ public class CategoryFragment extends BaseFragment {
 
             }
         }
-
-
-
         mSliderLayout.setPresetIndicator(SliderLayout.PresetIndicators.Center_Bottom);
 
         mSliderLayout.setCustomAnimation(new DescriptionAnimation());
         mSliderLayout.setPresetTransformer(SliderLayout.Transformer.Default);
         mSliderLayout.setDuration(3000);
-
-
-
-
     }
-
-
 
     private void requestWares(long categoryId){
 
@@ -283,24 +227,15 @@ public class CategoryFragment extends BaseFragment {
 
                 showWaresData(waresPage.getList());
 
-
             }
-
-
             @Override
             public void onError(Response response, int code, Exception e) {
-
             }
         });
 
     }
 
-
-
     private  void showWaresData(List<Wares> wares){
-
-
-
         switch (state){
 
             case  STATE_NORMAL:
@@ -330,10 +265,6 @@ public class CategoryFragment extends BaseFragment {
                     mWaresAdatper.clear();
                     mWaresAdatper.addData(wares);
                 }
-
-
-
-
                 break;
 
             case STATE_REFREH:
@@ -343,18 +274,12 @@ public class CategoryFragment extends BaseFragment {
                 mRecyclerviewWares.scrollToPosition(0);
                 mRefreshLaout.finishRefresh();
                 break;
-
             case STATE_MORE:
                 mWaresAdatper.addData(mWaresAdatper.getDatas().size(),wares);
                 mRecyclerviewWares.scrollToPosition(mWaresAdatper.getDatas().size());
                 mRefreshLaout.finishRefreshLoadMore();
                 break;
-
-
         }
-
-
-
     }
 
 

@@ -27,7 +27,7 @@
 
     <android.support.v7.widget.RecyclerView
         android:id="@+id/recyclerview_category"
-        android:layout_width="@dimen/category_layout_width"
+        android:layout_width="80dip"
         android:layout_height="fill_parent"
         android:background="@color/white"
         >
@@ -47,7 +47,7 @@
         <com.daimajia.slider.library.SliderLayout
             android:id="@+id/slider"
             android:layout_width="match_parent"
-            android:layout_height="180dp"
+            android:layout_height="160dp"
             app:pager_animation="Accordion"
             app:auto_cycle="true"
             app:indicator_visibility="visible"
