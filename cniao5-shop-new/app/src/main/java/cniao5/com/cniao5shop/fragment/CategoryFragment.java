@@ -9,6 +9,7 @@ import android.support.v7.widget.RecyclerView;
 import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
+import android.widget.Toast;
 
 import com.cjj.MaterialRefreshLayout;
 import com.cjj.MaterialRefreshListener;
@@ -93,6 +94,10 @@ public class CategoryFragment extends BaseFragment {
                 if(currPage <=totalPage)
                     loadMoreData();
                 else{
+<<<<<<< HEAD
+=======
+                   // Toast.makeText(getActivity.,"网络有问题，请检查你的网络",Toast.LENGTH_LONG).show();
+>>>>>>> 638528ddf0f7a6e871619de30434cc36c0554d0e
                     mRefreshLaout.finishRefreshLoadMore();
                 }
             }
@@ -280,6 +285,11 @@ public class CategoryFragment extends BaseFragment {
                 mRefreshLaout.finishRefreshLoadMore();
                 break;
         }
+    }
+
+
+    private void onSlideClick(){
+
     }
 
 
