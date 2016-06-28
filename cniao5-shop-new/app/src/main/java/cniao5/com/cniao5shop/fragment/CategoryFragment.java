@@ -37,6 +37,7 @@ import cniao5.com.cniao5shop.bean.Wares;
 import cniao5.com.cniao5shop.http.BaseCallback;
 import cniao5.com.cniao5shop.http.OkHttpHelper;
 import cniao5.com.cniao5shop.http.SpotsCallBack;
+import cniao5.com.cniao5shop.widget.CNiaoToolBar;
 
 
 public class CategoryFragment extends BaseFragment {
@@ -52,6 +53,8 @@ public class CategoryFragment extends BaseFragment {
 
     @ViewInject(R.id.slider)
     private  SliderLayout mSliderLayout;
+    @ViewInject(R.id.toolbar)
+    protected CNiaoToolBar mToolbar;
 
     private CategoryAdapter mCategoryAdapter;
     private WaresAdapter mWaresAdatper;
@@ -75,6 +78,9 @@ public class CategoryFragment extends BaseFragment {
 
     @Override
     public void init() {
+        mToolbar.hideSearchView();
+        mToolbar.showTitleView();
+        mToolbar.setTitle("商品详情");
         requestCategoryData();
         requestBannerData();
         initRefreshLayout();
@@ -243,6 +249,9 @@ public class CategoryFragment extends BaseFragment {
             case  STATE_NORMAL:
 
                 if(mWaresAdatper ==null) {
+                    if(wares==null||wares.size()==0){
+                        Toast.makeText(getActivity(),"当前分类没有商品",Toast.LENGTH_SHORT).show();
+                    }
                     mWaresAdatper = new WaresAdapter(getContext(), wares);
                     mWaresAdatper.setOnItemClickListener(new BaseAdapter.OnItemClickListener() {
                         @Override

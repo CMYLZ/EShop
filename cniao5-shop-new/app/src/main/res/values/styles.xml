@@ -140,7 +140,7 @@
 
     <style name="ware_price">
         <item name="android:textColor">@color/crimson</item>
-        <item name="android:textSize">20sp</item>
+        <item name="android:textSize">16sp</item>
 
     </style>
 

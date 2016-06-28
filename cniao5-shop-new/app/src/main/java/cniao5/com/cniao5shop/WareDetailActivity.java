@@ -86,7 +86,7 @@ public class WareDetailActivity extends AppCompatActivity implements View.OnClic
 
     private void initToolBar(){
 
-
+        mToolBar.hideSearchView();
         mToolBar.setNavigationOnClickListener(this);
         mToolBar.setRightButtonText("分享");
 
