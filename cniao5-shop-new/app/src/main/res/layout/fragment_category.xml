@@ -28,25 +28,13 @@
             android:orientation="horizontal"
             android:layout_width="match_parent"
             android:layout_height="match_parent">
-            <android.support.v7.widget.RecyclerView
-
-<<<<<<< HEAD
     <android.support.v7.widget.RecyclerView
         android:id="@+id/recyclerview_category"
         android:layout_width="80dip"
         android:layout_height="fill_parent"
         android:background="@color/white"
         >
-=======
-                android:id="@+id/recyclerview_category"
-                android:layout_width="@dimen/category_layout_width"
-                android:layout_height="fill_parent"
-                android:background="@color/white"
-                >
->>>>>>> 638528ddf0f7a6e871619de30434cc36c0554d0e
-
-
-            </android.support.v7.widget.RecyclerView>
+</android.support.v7.widget.RecyclerView>
         </LinearLayout>
 
 

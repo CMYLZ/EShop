@@ -7,6 +7,7 @@ import android.widget.Button;
 
 import com.facebook.drawee.view.SimpleDraweeView;
 
+import java.util.ArrayList;
 import java.util.List;
 
 import cniao5.com.cniao5shop.R;
@@ -20,17 +21,37 @@ import cniao5.com.cniao5shop.utils.ToastUtils;
  */
 public class HWAdatper extends SimpleAdapter<Wares> {
 
-
     CartProvider provider ;
-
+    List<Wares> oldDatas;
     public HWAdatper(Context context, List<Wares> datas) {
         super(context, R.layout.template_hot_wares, datas);
 
         provider = new CartProvider(context);
     }
+    public void search(String key){
+        if(this.oldDatas==null) {
+            this.oldDatas = new ArrayList<Wares>();
+            for(int i=0;i<this.datas.size();i++){
+                this.oldDatas.add(this.datas.get(i));
+            }
+        }
+        //搜索
+        if(key==null||key==""){
+            this.datas=this.oldDatas;
+        }else{
+            this.datas.clear();
+            for(int i=0;i<this.oldDatas.size();i++){
+                if(this.oldDatas.get(i).getName().contains(key)){
+                    this.datas.add(this.oldDatas.get(i));
+                }
+        }
+        }
+        notifyDataSetChanged();
+    }
 
     @Override
     protected void convert(BaseViewHolder viewHolder, final Wares wares) {
+
         SimpleDraweeView draweeView = (SimpleDraweeView) viewHolder.getView(R.id.drawee_view);
         draweeView.setImageURI(Uri.parse(wares.getImgUrl()));
 

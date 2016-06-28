@@ -5,9 +5,15 @@ import android.os.Bundle;
 import android.support.v7.widget.DefaultItemAnimator;
 import android.support.v7.widget.LinearLayoutManager;
 import android.support.v7.widget.RecyclerView;
+import android.text.Editable;
+import android.text.TextWatcher;
+import android.util.Log;
 import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
+import android.widget.Button;
+import android.widget.EditText;
+import android.widget.Toast;
 
 import com.cjj.MaterialRefreshLayout;
 import com.google.gson.reflect.TypeToken;
@@ -38,8 +44,8 @@ public class HotFragment extends BaseFragment implements Pager.OnPageListener<Wa
     @ViewInject(R.id.refresh_view)
     private MaterialRefreshLayout mRefreshLaout;
 
-
-
+    @ViewInject(R.id. toolbar_searchview)
+    private EditText editText;
     @Override
     public View createView(LayoutInflater inflater, ViewGroup container, Bundle savedInstanceState) {
         return inflater.inflate(R.layout.fragment_hot,container,false);
@@ -85,6 +91,24 @@ public class HotFragment extends BaseFragment implements Pager.OnPageListener<Wa
 
         mRecyclerView.setAdapter(mAdatper);
 
+        //李田汉 2016-6-28 20:42:44
+        editText.addTextChangedListener(new TextWatcher() {
+            @Override
+            public void beforeTextChanged(CharSequence s, int start, int count, int after) {
+
+            }
+
+            @Override
+            public void onTextChanged(CharSequence s, int start, int before, int count) {
+                mAdatper.search(s.toString());
+//                Toast.makeText(getContext(),s.toString(),Toast.LENGTH_SHORT).show();
+            }
+
+            @Override
+            public void afterTextChanged(Editable s) {
+
+            }
+        });
         mRecyclerView.setLayoutManager(new LinearLayoutManager(getContext()));
         mRecyclerView.setItemAnimator(new DefaultItemAnimator());
 //        mRecyclerView.addItemDecoration(new DividerItemDecoration(getContext(),DividerItemDecoration.VERTICAL_LIST));

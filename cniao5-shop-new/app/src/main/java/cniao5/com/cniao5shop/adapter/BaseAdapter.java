@@ -26,7 +26,6 @@ public abstract class BaseAdapter<T,H extends  BaseViewHolder> extends RecyclerV
 
     protected List<T> datas;
 
-
     private OnItemClickListener mOnItemClickListener = null;
 
 

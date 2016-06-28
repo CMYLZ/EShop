@@ -94,10 +94,7 @@ public class CategoryFragment extends BaseFragment {
                 if(currPage <=totalPage)
                     loadMoreData();
                 else{
-<<<<<<< HEAD
-=======
                    // Toast.makeText(getActivity.,"网络有问题，请检查你的网络",Toast.LENGTH_LONG).show();
->>>>>>> 638528ddf0f7a6e871619de30434cc36c0554d0e
                     mRefreshLaout.finishRefreshLoadMore();
                 }
             }
